@@ -11,3 +11,7 @@ color: #191970;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
+.kartu-profil ing {
+  width: 150px;
+  border: radius 
